@@ -1,0 +1,4 @@
+#Sat Jun 15 16:50:14 CEST 2019
+base.0=F\:\\Granada\\SIM2\\GIDM\\Lectuer\\T7\\NotificationStatusBar\\HablaEspaol\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
